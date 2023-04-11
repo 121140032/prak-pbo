@@ -72,5 +72,3 @@ class AkunSilver(AkunBank):
             bunga = 0.03
             
         print(f"Suku bunga akun {self.nama}: {bunga*100}% per bulan")
-        
-
